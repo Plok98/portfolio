@@ -47,6 +47,10 @@ social:
     url: http://twitter.com/jekyllrb
   - title: facebook
     url:
+  - title: linkedin
+    url: https://www.linkedin.com/in/pleun-alferink-921253159/
+  - title: instagram
+    url: https://www.instagram.com/pleun.nl/
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
