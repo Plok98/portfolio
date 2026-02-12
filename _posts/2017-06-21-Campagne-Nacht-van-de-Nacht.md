@@ -18,8 +18,6 @@ project-date: 2017-06-21
 client: Start-up
 ---
 
-<img src="{{ site.baseurl }}/img/portfolio/nmu/header.png" alt="Campagnebeeld Nacht van de Nacht 2017">
-
 ## Introductie
 
 De **Nacht van de Nacht** is een jaarlijks terugkerend evenement van de Milieufederaties, met als doel mensen bewust te maken van **lichtvervuiling** en het belang van een donkere nacht.  

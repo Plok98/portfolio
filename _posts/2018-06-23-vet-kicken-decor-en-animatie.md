@@ -19,8 +19,6 @@ project-date: 2018-06-23
 client: Start-up
 ---
 
-<img src="{{ site.baseurl }}/img/portfolio/vet_kicken/group_photo1.png" alt="Groepsfoto Vet Kicken livestream">
-
 ## Introductie
 
 In de zomer van 2018 werd een **speciale livestream** opgezet rondom de nostalgische 90’s gameshow _Vet Kicken_.  
@@ -75,7 +73,7 @@ Dankzij de combinatie van decor en animatie ontstond een **visuele beleving** di
     <figcaption>Decorconcept 4: dynamische achtergrondillustratie gebruikt in de livestream.</figcaption>
   </figure>
   <figure>
-    <img src="{{ site.baseurl }}/img/portfolio/vet_kicken/decor5.jpg" alt="Decor voorbeeld Vet Kicken 5">
+    <img src="{{ site.baseurl }}/img/portfolio/vet_kicken/decor5.png" alt="Decor voorbeeld Vet Kicken 5">
     <figcaption>Decorconcept 5: uitgewerkt tot finale visuals voor de show.</figcaption>
   </figure>
 </div>

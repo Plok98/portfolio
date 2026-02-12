@@ -61,6 +61,11 @@ h6 {
     margin: 0 auto;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 .bg-light-gray {
     background-color: #f7f7f7;
 }
@@ -807,8 +812,100 @@ ul.social-buttons li a:active {
     margin-bottom: 30px;
 }
 
+.portfolio-modal .modal-content .item-details.pill-details {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+}
+
+.portfolio-modal .modal-content .item-details.pill-details > li {
+    margin: 0;
+    padding: 0;
+}
+
+.portfolio-modal .modal-content .modal-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 14px;
+    border: 1px solid #d9e1e6;
+    border-radius: 999px;
+    background-color: #f5f8fa;
+}
+
+.portfolio-modal .modal-content .modal-pill-label {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+    color: #6b7a89;
+}
+
+.portfolio-modal .modal-content .modal-pill-value {
+    font-size: 13px;
+    font-weight: 600;
+    color: #222;
+}
+
 .portfolio-modal .modal-content img {
     margin-bottom: 30px;
+}
+
+.portfolio-modal .modal-content .post-content {
+    max-width: 960px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.portfolio-modal .modal-content .post-content img,
+.portfolio-modal .modal-content .post-content video,
+.portfolio-modal .modal-content .post-content iframe {
+    display: block;
+    max-width: 100%;
+    width: 100%;
+    margin: 0 auto 20px;
+}
+
+.portfolio-modal .modal-content .post-content iframe {
+    aspect-ratio: 16 / 9;
+    min-height: 220px;
+    border: 0;
+}
+
+.portfolio-modal .modal-content .post-content object {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto 20px;
+}
+
+.portfolio-modal .modal-content .post-content .image-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px;
+    align-items: start;
+    margin: 20px 0 30px;
+}
+
+.portfolio-modal .modal-content .post-content .image-grid figure {
+    margin: 0;
+}
+
+.portfolio-modal .modal-content .post-content .image-grid figcaption {
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+@media(max-width:767px) {
+    #portfolio .portfolio-item .portfolio-link img {
+        height: 220px;
+    }
+
+    .portfolio-modal .modal-content {
+        padding: 70px 0;
+    }
 }
 
 .portfolio-modal .close-modal {

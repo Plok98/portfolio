@@ -20,8 +20,6 @@ project-date: 2019-02-23
 client: Start-up
 ---
 
-<img src="{{ site.baseurl }}/img/portfolio/pandemie_campagne/posters.png" alt="Posterontwerpen TTX pandemiecampagne">
-
 ## Introductie
 
 Wat als een onbekende stof een wereldwijde pandemie veroorzaakt?  

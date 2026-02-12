@@ -21,8 +21,6 @@ project-date: 2020-06-14
 client: Start-up
 ---
 
-<img src="{{ site.baseurl }}/img/portfolio/battleship/BattleShips.png" alt="Screenshot BattleShips game in de browser">
-
 ## Introductie
 
 Iedereen herinnert zich het moment waarop design en code voor het eerst echt **samenklikten**.  
@@ -60,7 +58,7 @@ Voor mij was het vooral een bewijs dat ik **ideeën kon omzetten in interactieve
     <figcaption>Het speelveld van BattleShips, opgebouwd met HTML en CSS, en aangestuurd door JavaScript.</figcaption>
   </figure>
   <figure>
-    <img src="{{ site.baseurl }}/img/portfolio/battleship/Kleurenschema.png" alt="BattleShips kleurenschema">
+    <img src="{{ site.baseurl }}/img/portfolio/battleship/Kleurschema.PNG" alt="BattleShips kleurenschema">
     <figcaption>Het kleurenschema dat werd gebruikt om de interface overzichtelijk en aantrekkelijk te maken.</figcaption>
   </figure>
 </div>

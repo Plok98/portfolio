@@ -19,8 +19,6 @@ project-date: 2019-10-19
 client: Start-up
 ---
 
-<img src="{{ site.baseurl }}/img/portfolio/3d/followTheBeat.png" alt="Still uit de animatie Follow The Beat">
-
 ## Introductie
 
 Tijdens mijn minor in Finland aan Metropolia heb ik mij gefocust op de ontwerpmogelijkheden in 3D.

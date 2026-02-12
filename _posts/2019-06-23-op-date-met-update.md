@@ -20,8 +20,6 @@ project-date: 2019-06-23
 client: Start-up
 ---
 
-<img src="{{ site.baseurl }}/img/portfolio/update/Bierviltjes.jpg" alt="Bierviltjes UpDate campagne">
-
 ## Introductie
 
 Met **UpDate** wilden we een upgrade van Tinder voorstellen: een app waarmee je niet alleen matches vindt, maar ook samen interactieve films kunt kijken.  

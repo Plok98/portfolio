@@ -20,8 +20,6 @@ project-date: 2017-01-13
 client: Start-up
 ---
 
-<img src="{{ site.baseurl }}/img/portfolio/blink/monster_group.png" alt="Interface van BLINK app">
-
 ## Introductie
 
 In het onderwijs wordt steeds meer gebruikgemaakt van digitale hulpmiddelen.  
@@ -75,7 +73,7 @@ De visuele stijl, met kleurrijke elementen en herkenbare iconen, maakte de app n
     <figcaption>Een speelse illustratie (mascotte) die het ontwerp luchtig en toegankelijk maakt.</figcaption>
   </figure>
   <figure>
-    <img src="{{ site.baseurl }}/img/portfolio/blink/XD.png" alt="Adobe XD ontwerp BLINK app">
+    <img src="{{ site.baseurl }}/img/portfolio/blink/XD.PNG" alt="Adobe XD ontwerp BLINK app">
     <figcaption>Een kijkje in het ontwerpproces: de wireframes en prototypes gemaakt in Adobe XD.</figcaption>
   </figure>
 </div>

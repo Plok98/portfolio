@@ -20,8 +20,6 @@ project-date: 2024-07-11
 client: Start-up
 ---
 
-<img src="{{ site.baseurl }}/img/portfolio/levend_vroomshoop/header.png" alt="Voorkant flyer puzzeltocht Levend Vroomshoop">
-
 ## Introductie
 
 De puzzeltocht is opgezet om middelbare scholieren in Vroomshoop meer te leren over het verleden van hun eigen dorp.  
@@ -48,15 +46,15 @@ Het uiteindelijke ontwerp leverde een flyer en vragenboekje op die aansloten bij
 
 <div class="image-grid">
   <figure>
-    <img src="{{ site.baseurl }}/img/portfolio/inleveren.png" alt="Inleveren – overzicht of instructies">
+    <img src="{{ site.baseurl }}/img/portfolio/levend_vroomshoop/inleveren (1).png" alt="Inleveren – overzicht of instructies">
     <figcaption>Inleverinstructies voor de opdracht.</figcaption>
   </figure>
   <figure>
-    <img src="{{ site.baseurl }}/img/portfolio/lesbrief(1).png" alt="Lesbrief – pagina 1">
+    <img src="{{ site.baseurl }}/img/portfolio/levend_vroomshoop/lesbrief(1).png" alt="Lesbrief – pagina 1">
     <figcaption>Eerste pagina van de lesbrief.</figcaption>
   </figure>
   <figure>
-    <img src="{{ site.baseurl }}/img/portfolio/lesbrief(2).png" alt="Lesbrief – pagina 2">
+    <img src="{{ site.baseurl }}/img/portfolio/levend_vroomshoop/lesbrief(2).png" alt="Lesbrief – pagina 2">
     <figcaption>Tweede pagina van de lesbrief.</figcaption>
   </figure>
 </div>

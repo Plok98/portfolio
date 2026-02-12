@@ -21,8 +21,6 @@ project-date: 2025-06-16
 client: Start-up
 ---
 
-<img src="{{ site.baseurl }}/img/portfolio/huku_boo/header.png" alt="Headerbeeld HUKU BOO game">
-
 ## Introductie
 
 **HUKU BOO** is een platformer game die ik ontwierp en ontwikkelde als experiment om **gameplay en visueel ontwerp** samen te brengen.  

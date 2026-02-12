@@ -15,19 +15,25 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <p>{{ post.description }}</p>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
-                                    </strong>
+                            <div class="post-content">{{ post.content }}</div>
+                            <ul class="list-inline item-details pill-details">
+                                <li>
+                                    <span class="modal-pill">
+                                        <span class="modal-pill-label">Client</span>
+                                        <span class="modal-pill-value">{{ post.client }}</span>
+                                    </span>
                                 </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
-                                    </strong>
+                                <li>
+                                    <span class="modal-pill">
+                                        <span class="modal-pill-label">Date</span>
+                                        <span class="modal-pill-value">{{ post.project-date }}</span>
+                                    </span>
                                 </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
-                                    </strong>
+                                <li>
+                                    <span class="modal-pill">
+                                        <span class="modal-pill-label">Service</span>
+                                        <span class="modal-pill-value">{{ post.category }}</span>
+                                    </span>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
