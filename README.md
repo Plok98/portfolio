@@ -21,10 +21,11 @@ Team members and info are in '_config.yml'
 
 Images are in '/img/team/'
 
+# Missing posts:
 
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
+- PatBoard marketing
+- Dealerdirect Consumer Sites
+- Online Supporter: Davo
 
 =========
 For more details, read [documentation](http://jekyllrb.com/)
